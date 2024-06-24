@@ -1,2 +1,2 @@
 # SOC-Project-
-Repository for Storing my documentations and Projects of Online Trading using Pine Script Project 
+This repository contains the documentation, and analysis for my project exploring online trading using Pine Script.
